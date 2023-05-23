@@ -10,6 +10,7 @@ const firebaseConfig = {
   measurementId: "G-CT06N9E2YG"
 };
 
+
 firebase.initializeApp(firebaseConfig);
 database = firebase.database();
 let submit_btn =  document.getElementById("submit_button");

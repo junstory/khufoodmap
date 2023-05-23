@@ -1,4 +1,4 @@
-
+/*
 const firebaseConfig = {
   apiKey: "AIzaSyAoZUGl18Dhh0nKli7WsGjYzDRYSTdoEZA",
   authDomain: "khufoodmap.firebaseapp.com",
@@ -14,7 +14,7 @@ firebase.initializeApp(firebaseConfig);
 database = firebase.database();
 
 //Data Load
-export default positions = [];
+positions = [];
 //name : loadStores
 function loadStores(){
     console.log("입력시작");
@@ -42,3 +42,5 @@ positions.push(temp);
 
 console.log(positions);
 console.log("입력 완료");
+
+*/
